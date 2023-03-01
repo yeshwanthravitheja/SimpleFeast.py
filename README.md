@@ -2,7 +2,7 @@
  A simple implementation of FEAST on simulated event data
 
 
-
+![Plots of trained neurons](plots.png "Neuron Weights and Thresholds, Events identified by neuron activations")
 
 ## Citation
 ```
